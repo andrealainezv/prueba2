@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+:root{
+	--color-hover-menu:#FE8F01;
+}
+body{
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+}
+header{
+	background-color: #3d3d3d;
+	padding: 10px 0;
+}
+
+h1{
+letter-spacing: 5px;
+}
+
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+}
+
+#aboutus{
+	padding: 30px 0px;
+	background-color:#F5F5F5;
+	text-align: center;
+}
+
+.cuadro1, .cuadro2, .cuadro3{
+	background-color: #494949;
+	color:#fff;
+	padding: 30px 0px;
+	margin-bottom: 30px;
+}
+
+#aboutus i{
+	font-size: 36px;
+	background-color: #FE8F01;
+	color: #fff;
+	width:60px;
+	height: 60px;
+	line-height: 60px;
+	border-radius: 65px;
+	text-align: center;	
+}
+
+#aboutus h2{
+	text-align: center;
+	margin: 30px; 
+	letter-spacing: 2px;
+}
+
+#aboutus h4{
+	margin: 12px;
+	font-size: 18px;
+}
+
+#counter{
+	background-color: #010101;
+	text-align: center;
+	padding: 20px 0px;
+}
+
+#counter h2{
+	color: #fff;
+	font-weight: 200;
+	padding: 20px 0px;
+}
+
+#counter i{
+	font-size: 36px;	
+	text-align: center;
+	color: #fff;
+	padding-top: 10px;
+}
+
+#counter h5{
+color: #FE8F01;
+font-weight: 200;
+font-size: 16px;	
+margin: 30px;
+	
+	
+}
+
+#hero p{
+letter-spacing: 5px;
+}
